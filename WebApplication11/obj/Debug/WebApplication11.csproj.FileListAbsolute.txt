@@ -103,10 +103,12 @@ C:\Users\Kasif\source\repos\WebApplication11\WebApplication11\bin\System.Diagnos
 C:\Users\Kasif\source\repos\WebApplication11\WebApplication11\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 C:\Users\Kasif\source\repos\WebApplication11\WebApplication11\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Kasif\source\repos\WebApplication11\WebApplication11\obj\Debug\WebApplication11.csprojAssemblyReference.cache
+C:\Users\Kasif\source\repos\WebApplication11\WebApplication11\obj\Debug\WebApplication11.Migrations.initial.resources
+C:\Users\Kasif\source\repos\WebApplication11\WebApplication11\obj\Debug\WebApplication11.Migrations.address.resources
+C:\Users\Kasif\source\repos\WebApplication11\WebApplication11\obj\Debug\WebApplication11.csproj.GenerateResource.cache
 C:\Users\Kasif\source\repos\WebApplication11\WebApplication11\obj\Debug\WebApplication11.csproj.CoreCompileInputs.cache
 C:\Users\Kasif\source\repos\WebApplication11\WebApplication11\obj\Debug\WebApplication11.csproj.CopyComplete
 C:\Users\Kasif\source\repos\WebApplication11\WebApplication11\obj\Debug\WebApplication11.dll
 C:\Users\Kasif\source\repos\WebApplication11\WebApplication11\obj\Debug\WebApplication11.pdb
-C:\Users\Kasif\source\repos\WebApplication11\WebApplication11\obj\Debug\WebApplication11.Migrations.initial.resources
-C:\Users\Kasif\source\repos\WebApplication11\WebApplication11\obj\Debug\WebApplication11.csproj.GenerateResource.cache
-C:\Users\Kasif\source\repos\WebApplication11\WebApplication11\obj\Debug\WebApplication11.Migrations.address.resources
+C:\Users\Kasif\source\repos\WebApplication11\WebApplication11\obj\Debug\WebApplication11.Migrations.Produc.resources
+C:\Users\Kasif\source\repos\WebApplication11\WebApplication11\obj\Debug\WebApplication11.Migrations.productupdate.resources

@@ -27,6 +27,8 @@ namespace WebApplication11.Models
 
         public DbSet<Order> Orders { get; set; }
         public DbSet<Customer> Customers { get; set; }
+        public DbSet<Product> products { get; set; }
+        public DbSet<OrderProduct> orderProducts { get; set; }
         public static ApplicationDbContext Create()
         {
             return new ApplicationDbContext();
